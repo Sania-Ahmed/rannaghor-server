@@ -5,7 +5,7 @@ const cors = require('cors');
 const chefs = require('./data/chefs.json');
 const recipies = require('./data/recipies.json');
 
-
+// adding cors
 app.use(cors());
 
 app.get('/', (req, res) => {
