@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Atul Kochhar",
+        "id": 1,
+        "years_of_experience": 25,
+        "likes": 120000,
+        "description": "Atul Kochhar is an Indian-born, British-based chef known for his innovative and modern Indian cuisine. He has been cooking for over 25 years and has received numerous awards for his culinary achievements.",
+        "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.1.632902743.1676570136&semt=robertav1_2_sidr",
+        "recipes_count": 4
+    },
+    {
+        "name": "Vikas Khanna",
+        "id": 2,
+        "years_of_experience": 20,
+        "likes": 240000,
+        "description": "Vikas Khanna is an Indian chef, restaurateur, and cookbook author. He is known for his fusion cuisine that combines Indian and Western flavors. He has been cooking for over 20 years and has won several awards for his culinary achievements.",
+        "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?size=626&ext=jpg&ga=GA1.2.632902743.1676570136&semt=robertav1_2_sidr",
+        "recipes_count": 4
+    },
+    {
+        "name": "Madhur Jaffrey",
+        "id": 3,
+        "years_of_experience": 30,
+        "likes": 80000,
+        "description": "Madhur Jaffrey is an Indian-born, British-based actress, food and travel writer, and television personality. She is known for her authentic Indian recipes and has written several cookbooks on Indian cuisine.",
+        "image": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?size=626&ext=jpg&ga=GA1.2.632902743.1676570136&semt=robertav1_2_sidr",
+        "recipes_count": 4
+    },
+    {
+        "name": "Sanjeev Kapoor",
+        "id": 4,
+        "years_of_experience": 35,
+        "likes": 60000,
+        "description": "Sanjeev Kapoor is an Indian celebrity chef, restaurateur, and television personality. He is known for his traditional Indian recipes and has hosted several cooking shows on television.",
+        "image": "https://img.freepik.com/free-photo/handsome-chef-jugglery-with-vegetable_329181-689.jpg?size=626&ext=jpg&ga=GA1.2.632902743.1676570136&semt=robertav1_2_sidr",
+        "recipes_count": 3
+    },
+    {
+        "name": "Shipra Khanna",
+        "id": 5,
+        "years_of_experience": 10,
+        "likes": 40000,
+        "description": "Shipra Khanna is an Indian chef and television personality. She is known for her innovative and modern take on traditional Indian cuisine. She won the MasterChef India season 2 competition in 2012.",
+        "image": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?size=626&ext=jpg&ga=GA1.2.632902743.1676570136&semt=robertav1_2_sidr",
+        "recipes_count": 3
+    },
+    {
+        "name": "Anjum Anand",
+        "id": 6,
+        "years_of_experience": 15,
+        "likes": 70000,
+        "description": "Anjum Anand is a British-Indian chef, cookbook author, and television personality. She is known for her healthy and flavorful Indian recipes that are inspired by her family's cooking traditions.",
+        "image": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-crosses-arms-points-side-isolated-orange-wall_141793-33303.jpg?size=626&ext=jpg&ga=GA1.2.632902743.1676570136&semt=robertav1_2_sidr",
+        "recipes_count": 3
+    }
+]

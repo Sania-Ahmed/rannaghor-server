@@ -1,0 +1,301 @@
+[
+    {
+      "_id": "x5GtR2eF",
+      "name": "Palak Paneer",
+      "ingredients": [
+        "spinach",
+        "paneer",
+        "onion",
+        "garlic",
+        "ginger"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add spinach and cook until wilted, about 3 minutes. \n3. Add garam masala and paneer to the skillet and cook until heated through, about 5 minutes. \n4. Serve hot.",
+      "rating": 4.5,
+      "chef_id": 1
+    },
+    {
+      "_id": "x5GtR2eF",
+      "name": "Palak Paneer",
+      "ingredients": [
+        "spinach",
+        "paneer cheese",
+        "onion",
+        "garlic",
+        "ginger"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add spinach and cook until wilted, about 3 minutes. \n3. Add garam masala and paneer to the skillet and cook until heated through, about 5 minutes. \n4. Serve hot.",
+      "rating": 4.5,
+      "chef_id": 2
+    },
+    {
+      "_id": "x5GtR2eF",
+      "name": "Palak Paneer",
+      "ingredients": [
+        "spinach",
+        "paneer soft cheese",
+        "onion",
+        "garlic",
+        "ginger"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add spinach and cook until wilted, about 3 minutes. \n3. Add garam masala and paneer to the skillet and cook until heated through, about 5 minutes. \n4. Serve hot.",
+      "rating": 4.5,
+      "chef_id": 3
+    },
+    {
+      "_id": "z8HkW3dE",
+      "name": "Chicken Biryani",
+      "ingredients": [
+        "basmati rice",
+        "chicken thighs",
+        "chopped onion",
+        "ginger",
+        "garlic"
+      ],
+      "cooking_method": "1. Soak rice in water for 20 minutes, then drain. \n2. Heat oil in a large pot over medium-high heat. Add onion and cook until softened, about 5 minutes. \n3. Add garlic and ginger and cook for 1 minute. Add chicken and cook until browned on all sides, about 5 minutes. \n4. Add rice, spices, and enough water to cover the rice. Bring to a boil, then reduce heat to low and simmer until the rice is cooked through, about 20 minutes. \n5. Serve hot.",
+      "rating": 4.8,
+      "chef_id": 2
+    },
+    {
+      "_id": "z8HkW3dE",
+      "name": "Chicken Biryani",
+      "ingredients": [
+        "basmati rice",
+        "chicken boiled thighs",
+        "onion",
+        "ginger",
+        "garlic"
+      ],
+      "cooking_method": "1. Soak rice in water for 20 minutes, then drain. \n2. Heat oil in a large pot over medium-high heat. Add onion and cook until softened, about 5 minutes. \n3. Add garlic and ginger and cook for 1 minute. Add chicken and cook until browned on all sides, about 5 minutes. \n4. Add rice, spices, and enough water to cover the rice. Bring to a boil, then reduce heat to low and simmer until the rice is cooked through, about 20 minutes. \n5. Serve hot.",
+      "rating": 4.8,
+      "chef_id": 4
+    },
+    {
+      "_id": "z8HkW3dE",
+      "name": "Chicken Biryani",
+      "ingredients": [
+        "basmati rice",
+        "chicken thighs",
+        "onion",
+        "ginger",
+        "garlic cubes"
+      ],
+      "cooking_method": "1. Soak rice in water for 20 minutes, then drain. \n2. Heat oil in a large pot over medium-high heat. Add onion and cook until softened, about 5 minutes. \n3. Add garlic and ginger and cook for 1 minute. Add chicken and cook until browned on all sides, about 5 minutes. \n4. Add rice, spices, and enough water to cover the rice. Bring to a boil, then reduce heat to low and simmer until the rice is cooked through, about 20 minutes. \n5. Serve hot.",
+      "rating": 4.8,
+      "chef_id": 5
+    },
+    {
+      "_id": "z8HkW3dE",
+      "name": "Chicken Biryani",
+      "ingredients": [
+        "basmati boiled rice",
+        "chicken thighs",
+        "onion",
+        "ginger",
+        "garlic"
+      ],
+      "cooking_method": "1. Soak rice in water for 20 minutes, then drain. \n2. Heat oil in a large pot over medium-high heat. Add onion and cook until softened, about 5 minutes. \n3. Add garlic and ginger and cook for 1 minute. Add chicken and cook until browned on all sides, about 5 minutes. \n4. Add rice, spices, and enough water to cover the rice. Bring to a boil, then reduce heat to low and simmer until the rice is cooked through, about 20 minutes. \n5. Serve hot.",
+      "rating": 4.8,
+      "chef_id": 6
+    },
+    {
+      "_id": "z8HkW3dE",
+      "name": "Chicken Biryani",
+      "ingredients": [
+        "basmati rice",
+        "chicken thighs",
+        "onion",
+        "ginger fried",
+        "garlic"
+      ],
+      "cooking_method": "1. Soak rice in water for 20 minutes, then drain. \n2. Heat oil in a large pot over medium-high heat. Add onion and cook until softened, about 5 minutes. \n3. Add garlic and ginger and cook for 1 minute. Add chicken and cook until browned on all sides, about 5 minutes. \n4. Add rice, spices, and enough water to cover the rice. Bring to a boil, then reduce heat to low and simmer until the rice is cooked through, about 20 minutes. \n5. Serve hot.",
+      "rating": 4.8,
+      "chef_id": 1
+    },
+    {
+      "_id": "z8HkW3dE",
+      "name": "Chicken Biryani",
+      "ingredients": [
+        "basmati rice",
+        "chicken thighs fried",
+        "onion",
+        "ginger",
+        "garlic"
+      ],
+      "cooking_method": "1. Soak rice in water for 20 minutes, then drain. \n2. Heat oil in a large pot over medium-high heat. Add onion and cook until softened, about 5 minutes. \n3. Add garlic and ginger and cook for 1 minute. Add chicken and cook until browned on all sides, about 5 minutes. \n4. Add rice, spices, and enough water to cover the rice. Bring to a boil, then reduce heat to low and simmer until the rice is cooked through, about 20 minutes. \n5. Serve hot.",
+      "rating": 4.8,
+      "chef_id": 3
+    },
+    {
+      "_id": "a6FjK7hD",
+      "name": "Aloo Gobi",
+      "ingredients": [
+        "potatoes boiled",
+        "cauliflower",
+        "onion",
+        "turmeric",
+        "cumin"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add potatoes and cauliflower and cook until tender, about 15 minutes. \n3. Add turmeric and cumin to the skillet and cook for 2-3 minutes. \n4. Serve hot.",
+      "rating": 4.3,
+      "chef_id": 3
+    },
+    {
+      "_id": "a6FjK7hD",
+      "name": "Aloo Gobi",
+      "ingredients": [
+        "potatoes",
+        "cauliflower boiled",
+        "onion",
+        "turmeric",
+        "cumin"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add potatoes and cauliflower and cook until tender, about 15 minutes. \n3. Add turmeric and cumin to the skillet and cook for 2-3 minutes. \n4. Serve hot.",
+      "rating": 4.3,
+      "chef_id": 2
+    },
+    {
+      "_id": "a6FjK7hD",
+      "name": "Aloo Gobi",
+      "ingredients": [
+        "potatoes",
+        "cauliflower",
+        "onion",
+        "smashed turmeric",
+        "cumin"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add potatoes and cauliflower and cook until tender, about 15 minutes. \n3. Add turmeric and cumin to the skillet and cook for 2-3 minutes. \n4. Serve hot.",
+      "rating": 4.3,
+      "chef_id": 1
+    },
+    {
+      "_id": "a6FjK7hD",
+      "name": "Aloo Gobi",
+      "ingredients": [
+        "potatoes",
+        "cauliflower",
+        "onion",
+        "turmeric",
+        "cumin powder"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add potatoes and cauliflower and cook until tender, about 15 minutes. \n3. Add turmeric and cumin to the skillet and cook for 2-3 minutes. \n4. Serve hot.",
+      "rating": 4.3,
+      "chef_id": 5
+    },
+    {
+      "_id": "a6FjK7hD",
+      "name": "Aloo Gobi",
+      "ingredients": [
+        "potatoes",
+        "cauliflower",
+        "onion",
+        "turmeric powder",
+        "cumin"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add potatoes and cauliflower and cook until tender, about 15 minutes. \n3. Add turmeric and cumin to the skillet and cook for 2-3 minutes. \n4. Serve hot.",
+      "rating": 4.3,
+      "chef_id": 4
+    },
+    {
+      "_id": "a6FjK7hD",
+      "name": "Aloo Gobi",
+      "ingredients": [
+        "potatoes",
+        "cauliflower",
+        "onion paste",
+        "turmeric",
+        "cumin"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add potatoes and cauliflower and cook until tender, about 15 minutes. \n3. Add turmeric and cumin to the skillet and cook for 2-3 minutes. \n4. Serve hot.",
+      "rating": 4.3,
+      "chef_id": 6
+    },
+    {
+      "_id": "c9JmE4fB",
+      "name": "Chana Masala",
+      "ingredients": [
+        "chickpeas",
+        "onion",
+        "tomato paste",
+        "cumin",
+        "coriander"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add chickpeas and cook for 5 minutes. \n3. Add tomato and spices to the skillet and cook for 5 minutes. \n4. Serve hot.",
+      "rating": 4.2,
+      "chef_id": 4
+    },
+    {
+      "_id": "c9JmE4fB",
+      "name": "Chana Masala",
+      "ingredients": [
+        "chickpeas",
+        "onion",
+        "tomato",
+        "cumin paste",
+        "coriander"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add chickpeas and cook for 5 minutes. \n3. Add tomato and spices to the skillet and cook for 5 minutes. \n4. Serve hot.",
+      "rating": 4.2,
+      "chef_id": 3
+    },
+    {
+      "_id": "c9JmE4fB",
+      "name": "Chana Masala",
+      "ingredients": [
+        "chickpeas",
+        "onion",
+        "tomato",
+        "cumin",
+        "coriander",
+        "oil"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add chickpeas and cook for 5 minutes. \n3. Add tomato and spices to the skillet and cook for 5 minutes. \n4. Serve hot.",
+      "rating": 4.2,
+      "chef_id": 2
+    },
+    {
+      "_id": "c9JmE4fB",
+      "name": "Chana Masala",
+      "ingredients": [
+        "chickpeas",
+        "onion",
+        "tomato",
+        "cumin",
+        "coriander",
+        "salt"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add chickpeas and cook for 5 minutes. \n3. Add tomato and spices to the skillet and cook for 5 minutes. \n4. Serve hot.",
+      "rating": 4.2,
+      "chef_id": 1
+    },
+    {
+      "_id": "c9JmE4fB",
+      "name": "Chana Masala",
+      "ingredients": [
+        "chickpeas",
+        "onion",
+        "tomato",
+        "cumin",
+        "coriander",
+        "spices"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add chickpeas and cook for 5 minutes. \n3. Add tomato and spices to the skillet and cook for 5 minutes. \n4. Serve hot.",
+      "rating": 4.2,
+      "chef_id": 5
+    },
+    {
+      "_id": "c9JmE4fB",
+      "name": "Chana Masala",
+      "ingredients": [
+        "chickpeas",
+        "onion",
+        "tomato",
+        "cumin",
+        "coriander",
+        "garam masala"
+      ],
+      "cooking_method": "1. Heat oil in a large skillet over medium-high heat. Add onion and cook until softened, about 5 minutes. \n2. Add garlic and ginger and cook for 1 minute. Add chickpeas and cook for 5 minutes. \n3. Add tomato and spices to the skillet and cook for 5 minutes. \n4. Serve hot.",
+      "rating": 4.2,
+      "chef_id": 6
+    }
+  ]
+  
