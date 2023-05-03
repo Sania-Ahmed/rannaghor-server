@@ -11,15 +11,19 @@ app.use(cors());
 app.get('/', (req, res) => {
   res.send('RANNAGHOR COMING')
 });
+// loading all the chefs information 
 app.get('/chefs', (req,res) => {
     res.send(chefs)
 });
+// getting individual chef info
 app.get('/chefs/:id' , (req,res) => {
     const id = parseInt(req.params.id) ;
     const selectedChef = chefs.find(chef => chef.id === id)
     console.log(id)
     res.send(selectedChef)
 });
+// getting recipe according to chef_id
+
 app.get('/recipies/:id', (req,res) => {
     const id = parseInt(req.params.id) ;
     const foundRecipies = recipies.filter(r => r.chef_id === id );
