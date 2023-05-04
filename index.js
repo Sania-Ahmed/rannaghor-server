@@ -5,7 +5,7 @@ const cors = require('cors');
 const chefs = require('./data/chefs.json');
 const recipies = require('./data/recipies.json');
 
-// adding cors
+// adding cors to get access to local server
 app.use(cors());
 
 app.get('/', (req, res) => {
@@ -15,14 +15,14 @@ app.get('/', (req, res) => {
 app.get('/chefs', (req,res) => {
     res.send(chefs)
 });
-// getting individual chef info
+// getting individual chef info by using find method
 app.get('/chefs/:id' , (req,res) => {
     const id = parseInt(req.params.id) ;
     const selectedChef = chefs.find(chef => chef.id === id)
     console.log(id)
     res.send(selectedChef)
 });
-// getting recipe according to chef_id
+// getting recipe according to chef_id by using filter method
 
 app.get('/recipies/:id', (req,res) => {
     const id = parseInt(req.params.id) ;
